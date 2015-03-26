@@ -1,0 +1,29 @@
+# Version: 8.6.2.26 (9905782)
+# [first argument, ignore] # /Users/HariWepuri/Desktop/Tutorials_Xamarin/ThreadXamarin/ThreadXamarin.iOS/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.6.2.26/bin/mtouch-64 \
+	--cache \
+	/Users/HariWepuri/Desktop/Tutorials_Xamarin/ThreadXamarin/ThreadXamarin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/HariWepuri/Desktop/Tutorials_Xamarin/ThreadXamarin/ThreadXamarin.iOS/bin/iPhoneSimulator/Debug/ThreadXamarin.iOS.app \
+	--executable \
+	ThreadXamarin.iOS \
+	--debug \
+	--nolink \
+	--sdkroot \
+	"/Applications/Xcode 2.app/Contents/Developer" \
+	--sdk \
+	8.1 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/HariWepuri/Desktop/Tutorials_Xamarin/ThreadXamarin/ThreadXamarin.iOS/bin/iPhoneSimulator/Debug//ThreadXamarin.iOS.exe \
